@@ -1,0 +1,22 @@
+{
+  "name": "validate-url",
+  "version": "0.0.1",
+  "description": "Check whether a given url seems like a valid internet url",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danmactough/validate-url.git"
+  },
+  "keywords": [
+    "url",
+    "validate",
+    "validator",
+    "validators"
+  ],
+  "author": "Dan MacTough <danmactough@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
